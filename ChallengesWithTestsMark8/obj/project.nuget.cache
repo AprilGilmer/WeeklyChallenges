@@ -1,8 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "tpEUyXTsFYPVTY0ZGx3jzHe0aToHyL0aD1OsSrU3hGMmwA+SLqgDOiVcVZjuL8ERrfiXkXmc9LuJqaUaF5DsYw==",
+  "dgSpecHash": "LXs+7Ngs9GSM2/UvzOSiVzJ4/2GPRBCTDxjCJ2R9H7GdJdcVxD0BDvwJvbujF2K3pECuBqNyJkO2YzultyA8sg==",
   "success": true,
   "projectFilePath": "C:\\Users\\gilme\\Desktop\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gilme\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\enums.net\\4.0.1\\enums.net.4.0.1.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\extendednumerics.bigdecimal\\2025.1001.2.129\\extendednumerics.bigdecimal.2025.1001.2.129.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\mathnet.numerics.signed\\5.0.0\\mathnet.numerics.signed.5.0.0.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.0\\microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\npoi\\2.7.3\\npoi.2.7.3.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\sixlabors.fonts\\1.0.1\\sixlabors.fonts.1.0.1.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\sixlabors.imagesharp\\2.1.10\\sixlabors.imagesharp.2.1.10.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512",
+    "C:\\Users\\gilme\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
